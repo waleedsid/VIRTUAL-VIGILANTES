@@ -13,6 +13,14 @@ This task involves creating and uploading a personal portfolio website. The port
 - **Repository Link:** https://github.com/waleedsid/personal-portfolio-website
 - **Readme File:** https://github.com/waleedsid/VIRTUAL-VIGILANTES/edit/main/README.md
 
+## 🎨 Sneak Peek
+
+![Portfolio Screenshot](https://github.com/user-attachments/assets/3f352091-9562-4f28-9506-48112817aace)
+
+## 🌐 Live Preview
+
+Check out the live version of my portfolio here: [Personal Portfolio](https://waleedsid.netlify.app/)
+
 ### Evaluation Criteria
 - **Design and Aesthetics:** The visual appeal and user experience of the portfolio.
 - **Content:** The clarity and completeness of the information presented about your projects and skills.
