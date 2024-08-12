@@ -27,8 +27,6 @@ Welcome to the **To-Do List Application** project! This application is designed 
 
 ## Submission
 
-Please provide the link to your personal portfolio repository below:
-
 [https://github.com/waleedsid/]
 
 ## Additional Information
