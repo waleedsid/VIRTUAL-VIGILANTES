@@ -20,7 +20,7 @@ At Virtual Vigilantes, I’m diving into impactful projects that enhance my skil
 
 ✨ **Project Description**: This project involves creating a sophisticated to-do list application with a user-friendly interface and advanced features. The application will help users manage their tasks efficiently with functionalities such as task prioritization, reminders, and categorization.
 
-🔗 **[View the To-Do List Application](https://github.com/waleedsid/VIRTUAL-VIGILANTES/blob/main/TASK_2_PERSONAL_todolist.md)**
+🔗 **[View the To-Do List Application](https://github.com/waleedsid/VIRTUAL-VIGILANTES/blob/main/TASK_2_To_Do_List_Application.md)**
 
 ## 📫 **Contact Information**
 
