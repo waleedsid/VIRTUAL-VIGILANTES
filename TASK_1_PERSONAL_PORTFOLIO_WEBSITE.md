@@ -28,8 +28,6 @@ Check out the live version of my portfolio here: [Personal Portfolio](https://wa
 
 ## Submission
 
-Please provide the link to your personal portfolio repository below:
-
 [https://github.com/waleedsid/personal-portfolio-website]
 
 ## Additional Information
