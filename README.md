@@ -26,8 +26,8 @@ At Virtual Vigilantes, I’m diving into impactful projects that enhance my skil
 
 Let’s connect! Feel free to reach out if you have any questions or just want to chat about tech.
 
-- **LinkedIn**: **[Waleed](https://www.linkedin.com/in/waleed)**
-- **Email**: **[waleed@example.com](mailto:waleed@example.com)**
+- **LinkedIn**: **[Waleed](https://www.linkedin.com/in/waleedsid)**
+- **Email**: **[waleed@example.com](mailto:waleed.siddique.112@gmail.com)**
 
 ## 🙏 **Acknowledgements**
 
